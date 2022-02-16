@@ -1,7 +1,7 @@
 INTRODUCTION
 ------------
 Great to hear you are interested in coding Matt! Here is fun simple Python script to introduce you to the world of coding.
-Below you will find some resources to things running in no time. I encourage you to ask questions, but make sure you give it a real
+Below you will find some resources to things to get you running the python 'game' in no time. I encourage you to ask questions, but make sure you give it a real
 shot before asking as you will learn more this way! 
 
 REQUIREMENTS
