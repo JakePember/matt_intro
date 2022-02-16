@@ -10,3 +10,4 @@ REQUIREMENTS
 * Download and install Visual Code (Not Visual Code Studio, there is a difference).
 * Install Python plugin for Visual Code, you can follow [THESE](https://code.visualstudio.com/docs/python/python-tutorial) instructions.
 * Create a new file and name it main.py on your desktop and paste [this](main.py) files content into it.
+* Once you have the file with the code pasted inside opened in Visual Code, you should be able to find how to run it from the visual studio plugin page [here](https://code.visualstudio.com/docs/python/python-tutorial).
